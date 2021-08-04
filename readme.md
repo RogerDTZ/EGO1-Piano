@@ -43,7 +43,7 @@
 
 # 3. 设计结构
 
-![](structure.png)
+![](https://raw.githubusercontent.com/RogerDTZ/EGO1-Piano/main/structure.png)
 
 # 4. 彩蛋
 
